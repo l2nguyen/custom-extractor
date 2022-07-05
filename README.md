@@ -1,6 +1,6 @@
 # custom-extractor
  
-Test extract_<slot_name> method behaviour in Rasa 3
+Test `extract_<slot_name>` method behaviour in Rasa 3
 
 They only seem to run after slot has been filled in a form due to when FormValidationAction is now called.
 
